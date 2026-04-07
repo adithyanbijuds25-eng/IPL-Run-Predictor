@@ -105,19 +105,17 @@ streamlit run streamlit_app.py
 ## 📁 Repository Structure
 ```
 IPL-Run-Predictor/
-├── data/
-│   ├── cleaned_data.csv
-│   └── eda_charts.png
-├── models/
-│   ├── multiple_lr.pkl
-│   ├── logistic_model.pkl
-│   └── scaler.pkl
-├── notebooks/
-│   ├── 01_data_cleaning.ipynb
-│   └── 03_modelling.ipynb
-├── individual_profiles/
-├── presentation/
-│   └── IPL_Run_Predictor.pptx
+├── 01_data_cleaning.ipynb
+├── 03_modelling.ipynb
 ├── streamlit_app.py
-└── requirements.txt
+├── cleaned_data.csv
+├── eda_charts.png
+├── multiple_lr.pkl
+├── logistic_model.pkl
+├── scaler.pkl
+├── requirements.txt
+├── README.md
+├── individual_profiles/
+└── presentation/
+    └── IPL_Run_Predictor.pptx
 ```
