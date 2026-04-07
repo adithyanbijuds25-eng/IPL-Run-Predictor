@@ -1,7 +1,7 @@
 # 🏏 IPL Batsman Run Predictor
 
 **Course:** Predictive Analytics 2025-26
-**Team Members:** Adithyan | Fidal Govind | Archana
+**Team Members:** Adithyan Biju | Fidal Govind | Archana Das
 **Live App:** [Click Here](YOUR_STREAMLIT_URL_HERE)
 
 ---
@@ -72,9 +72,9 @@ performance.
 ## 👥 Team Contributions
 | Member | GitHub | Stages Covered |
 |--------|--------|---------------|
-| Adithyan | adithyanbijuds25-eng | Stages 1,2,3,4,5,10 |
+| Adithyan Biju | adithyanbijuds25-eng | Stages 1,2,3,4,5,10 |
 | Fidal Govind | fidalgovindduk | Stages 6,7,8 |
-| Archana | archanatds25 | Stages 9,10 |
+| Archana Das | archanatds25 | Stages 9,10 |
 
 ---
 
